@@ -1,0 +1,6 @@
+[submodule "uepp_data"]
+	path = uepp_data
+	url = ./uepp_data/
+[submodule "uepp_app"]
+	path = uepp_app
+	url = ./uepp_app/
