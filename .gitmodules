@@ -1,6 +1,6 @@
 [submodule "uepp_data"]
 	path = uepp_data
-	url = ./uepp_data/
+	url = git@github.com:Luacolaborativa/uepp_data.git
 [submodule "uepp_app"]
 	path = uepp_app
-	url = ./uepp_app/
+	url = git@github.com:Luacolaborativa/uepp_app.git
